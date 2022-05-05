@@ -75,10 +75,8 @@ Or you can simply download it from here https://github.com/islamhakim97/Testing-
   
   
 # Helpful Links
-  ## These links helped me to solve some problems which it appeared to me during project creation and the learning process
+  ## This link helped me during the learning process of testing apis using postman.
    - <a href="https://www.youtube.com/watch?v=pPLFGdZoLdo&list=PLJ2FoWouEU2yPMIBTGsMRvxjEevIlMi3F">Learning Testing APIS </a>
-  
-  
 # About Software Tester
   <div align="center">
   Islam Abd El Hakim is a Software Testing Engineer
