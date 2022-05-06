@@ -84,10 +84,10 @@ Or you can simply download it from here https://github.com/islamhakim97/Testing-
  <p> </p>
  <p> </p>
   <div align="center">
-  <!-- ALaa Mahmoud Fawzy LinkedIn -->
+  <!--  Islam Abd El Hakim LinkedIn -->
   <a href="https://www.linkedin.com/in/islamhakim">
     <img src="https://user-images.githubusercontent.com/33738409/154184172-7a13b01e-6eb1-4134-ae91-c82588a7b27b.png" width="40px" height="40px"  
-      alt="ALaa Mahmoud Fawzy Linkedin Profile" />
+      alt=" Islam Abd El Hakim Linkedin Profile" />
   </a>
 </div>
 <p> </p>
